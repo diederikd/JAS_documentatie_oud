@@ -34,6 +34,14 @@ respec: >
   }
 ---
 
+
+ 
+<section id="abstract">
+   <p>
+     Your specification abstract goes here.
+   </p>
+</section>
+ 
 # Inleiding
 Hier komt de inleiding
 
