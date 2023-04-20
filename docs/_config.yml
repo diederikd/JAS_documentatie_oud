@@ -1,6 +1,6 @@
-title: Your Specification Title
-description: Your Specification Description
-url: "https://transmute-industries.github.io/respec-github-pages/"
+title: Juridisch Analyse Schema
+description: Juridisch Analyse Schema
+url: "https://github.com/diederikd/JAS_documentatie/"
 
 github:
   private: false
@@ -9,7 +9,7 @@ github:
   source:
     branch: "master"
     path: "/"
-  repository_url: "https://github.com/transmute-industries/respec-github-pages"
+  repository_url: "https://github.com/diederikd/JAS_documentatie/"
 
 defaults:
   - scope:
