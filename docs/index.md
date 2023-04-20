@@ -9,10 +9,10 @@ respec: >
     "repository": "https://github.com/diederikd/JAS_documentatie/",
     "issues": "https://github.com/diederikd/JAS_documentatie/issues",
     "group": {
-      "name": "JAS Group",
-      "url": "-",
-      "list": "-",
-      "patentUri": "-"
+      "name": "Credentials Community Group",
+      "url": "https://www.w3.org/community/credentials/",
+      "list": "public-credentials",
+      "patentUri": "https://www.w3.org/community/about/agreements/cla/"
     },
     "editors": [
       {
